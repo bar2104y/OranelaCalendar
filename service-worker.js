@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "calendar.oranela.ru/precache-manifest.e349414b19374211c9db655c7187d71c.js"
+  "/OranelaCalendar/precache-manifest.6bd3fb414abecab09569d68c9025c424.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("calendar.oranela.ru/index.html", {
+workbox.routing.registerNavigationRoute("/OranelaCalendar/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
