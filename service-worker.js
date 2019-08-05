@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/OranelaCalendar/precache-manifest.f6445788baffeb905eff40488c714d1e.js"
+  "/OranelaCalendar/precache-manifest.b63d46c9300050d8902fa40beae79fe1.js"
 );
 
 workbox.clientsClaim();
