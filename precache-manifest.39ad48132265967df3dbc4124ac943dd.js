@@ -8,23 +8,23 @@ self.__precacheManifest = [
     "url": "/OranelaCalendar/static/js/runtime~main.33cfe3df.js"
   },
   {
-    "revision": "64c97b8f8437cc1e544e",
-    "url": "/OranelaCalendar/static/js/main.4d20b4e7.chunk.js"
+    "revision": "0ec0902987f661676f64",
+    "url": "/OranelaCalendar/static/js/main.92580c38.chunk.js"
   },
   {
-    "revision": "067caa5f4aad3924536e",
-    "url": "/OranelaCalendar/static/js/2.eb405a86.chunk.js"
+    "revision": "1357bd2f28d04095e46e",
+    "url": "/OranelaCalendar/static/js/2.c139b893.chunk.js"
   },
   {
-    "revision": "64c97b8f8437cc1e544e",
+    "revision": "0ec0902987f661676f64",
     "url": "/OranelaCalendar/static/css/main.fc8e4d5e.chunk.css"
   },
   {
-    "revision": "067caa5f4aad3924536e",
+    "revision": "1357bd2f28d04095e46e",
     "url": "/OranelaCalendar/static/css/2.2673369c.chunk.css"
   },
   {
-    "revision": "93b106c8a238ec93651dc2e38b49bfdc",
+    "revision": "3ef5d3c71bb2bb7a5c8b009ca7f35190",
     "url": "/OranelaCalendar/index.html"
   }
 ];
