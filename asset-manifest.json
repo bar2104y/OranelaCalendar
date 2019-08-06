@@ -1,16 +1,13 @@
 {
-  "main.css": "/OranelaCalendar/static/css/main.fc8e4d5e.chunk.css",
-  "main.js": "/OranelaCalendar/static/js/main.60770d1d.chunk.js",
-  "main.js.map": "/OranelaCalendar/static/js/main.60770d1d.chunk.js.map",
+  "main.js": "/OranelaCalendar/static/js/main.1d36150e.chunk.js",
+  "main.js.map": "/OranelaCalendar/static/js/main.1d36150e.chunk.js.map",
   "runtime~main.js": "/OranelaCalendar/static/js/runtime~main.33cfe3df.js",
   "runtime~main.js.map": "/OranelaCalendar/static/js/runtime~main.33cfe3df.js.map",
   "static/css/2.2673369c.chunk.css": "/OranelaCalendar/static/css/2.2673369c.chunk.css",
-  "static/js/2.b373c4a6.chunk.js": "/OranelaCalendar/static/js/2.b373c4a6.chunk.js",
-  "static/js/2.b373c4a6.chunk.js.map": "/OranelaCalendar/static/js/2.b373c4a6.chunk.js.map",
+  "static/js/2.5962b59b.chunk.js": "/OranelaCalendar/static/js/2.5962b59b.chunk.js",
+  "static/js/2.5962b59b.chunk.js.map": "/OranelaCalendar/static/js/2.5962b59b.chunk.js.map",
   "index.html": "/OranelaCalendar/index.html",
-  "precache-manifest.a8a09694160e7cd1a398116e6b1825c7.js": "/OranelaCalendar/precache-manifest.a8a09694160e7cd1a398116e6b1825c7.js",
+  "precache-manifest.fb6846f6d90fbae25a06ca911302315e.js": "/OranelaCalendar/precache-manifest.fb6846f6d90fbae25a06ca911302315e.js",
   "service-worker.js": "/OranelaCalendar/service-worker.js",
-  "static/css/2.2673369c.chunk.css.map": "/OranelaCalendar/static/css/2.2673369c.chunk.css.map",
-  "static/css/main.fc8e4d5e.chunk.css.map": "/OranelaCalendar/static/css/main.fc8e4d5e.chunk.css.map",
-  "static/media/persik.png": "/OranelaCalendar/static/media/persik.4e1ec840.png"
+  "static/css/2.2673369c.chunk.css.map": "/OranelaCalendar/static/css/2.2673369c.chunk.css.map"
 }
